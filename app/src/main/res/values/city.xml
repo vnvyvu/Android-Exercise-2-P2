@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>HaNoi</item>
+        <item>HCM</item>
+        <item>Hue</item>
+        <item>Ha Giang</item>
+        <item>Vinh</item>
+        <item>Ca Mau</item>
+        <item>Binh Dinh</item>
+        <item>Ninh Binh</item>
+    </string-array>
+</resources>
